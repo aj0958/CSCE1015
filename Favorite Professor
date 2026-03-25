@@ -1,0 +1,2 @@
+echo '## Favorite Professor' >> README.md
+echo '$(YOUR_FAVORITE_PROFESSOR)' >> README.md
